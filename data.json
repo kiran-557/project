@@ -1,0 +1,41 @@
+{
+  "basic":
+  {
+    "image":"VVS.png",
+    "name":"VVS Kiran",
+    "number":"9876543210",
+    "email":"kiranvvs457@gmail.com",
+    "college":"Pragati Engineering College",
+    "address":"Surampalem"
+  },
+  "career":
+  {
+    "info":"To setlle in life",
+    "hr":"educational qualification"
+  },
+  "education":
+  [
+    {
+    "Institute":"Pragati Engineering College",
+    "Degree":"B.tech",
+    "Passout":"2021"
+    },
+   {
+     "Institute":"Nararyana",
+     "Degree":"Inter",
+     "Passout":"2017"
+   },
+   {
+     "Institute":"Sri Prakash Vidya Niketan",
+     "Degree":"SSC",
+     "Passout":"2015"
+   }
+],
+"TechnicalSkills":
+{
+  "language1":"*c",
+  "language2":"*c++",
+  "language3":"*java",
+  "language4":"*Python"
+}
+}
